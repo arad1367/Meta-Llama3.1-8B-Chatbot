@@ -1,6 +1,6 @@
 accelerate
 bitsandbytes
 torch
-transformers==4.43.1
+transformers==4.48.0
 einops
 sentencepiece
